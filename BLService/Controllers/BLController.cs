@@ -12,5 +12,9 @@ namespace BLService.Controllers
         public void AddStudent()
         {
         } // end AddStudent
+
+        public void DelStudent()
+        {
+        } // end DelStudent
     }
 }
